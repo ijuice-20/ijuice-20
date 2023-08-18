@@ -13,7 +13,7 @@ Apart from all these, I'm a HUGE* Messi🐐 fan who also loves playing video gam
 
 So, let's connect, collaborate, and create wonders. Whether it's building beautiful apps, discussing the latest match, or dissecting the nuances of UI design, I'm here, ready to engage 🍻
 
-<h3>Stacks</h3>
+<h3>Skills</h3>
 <p>
 <img src = "https://github.com/ijuice-20/ijuice-20/assets/68854082/61f33ab5-c4bd-48c5-8f69-5174b7e4dda7" height =50>
 <img src = "https://github.com/ijuice-20/ijuice-20/assets/68854082/2c7e8010-22c9-42ec-93ef-f65e012ef31d" height =50>
