@@ -14,4 +14,4 @@ Outside the tech realm, I'm a startup 🪫 aficionado with a penchant for creati
 
 Apart from all these, I'm a HUGE* Messi🐐 fan who also loves playing video games 🎮 and watching movies 🎬 (alot)
 
-<!--So, let's connect, collaborate, and create wonders. Whether it's building beautiful apps, discussing the latest match, or dissecting the nuances of UI design, I'm here, ready to engage 🍻-->
+So, let's connect, collaborate, and create wonders. Whether it's building beautiful apps, discussing the latest match, or dissecting the nuances of UI design, I'm here, ready to engage 🍻
