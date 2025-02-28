@@ -1,11 +1,11 @@
 
-![arcade](https://github.com/ijuice-20/ijuice-20/assets/68854082/1d451352-b333-42b3-9f29-b85884b51ef9)
+<!--![arcade](https://github.com/ijuice-20/ijuice-20/assets/68854082/1d451352-b333-42b3-9f29-b85884b51ef9)-->
 <!--![pixel-jeff-blade-runner-v2](https://github.com/ijuice-20/ijuice-20/assets/68854082/a2c4605c-452e-485d-90fd-d948e4816ad6)-->
+<p align='center'> <img src='https://github.com/user-attachments/assets/76577e0f-a47a-4bb4-bc61-c3f5ff95c975' </p>
 
 
 
-
-Hey yo🤘, I'm Ijas Ahammed, currently working as the Software Engineer at [marketfeed (YC S21)](https://www.marketfeed.com/).
+Yo🤘, I'm Ijas Ahammed, currently working as the Software Engineer at [marketfeed (YC S21)](https://www.marketfeed.com/).
 My debut into the tech was back in the days when torrenting and GTA Vice City ✨ were calling the shots worldwide 
 
 I'm all about whipping up sleek mobile and web apps that just flow 🏂. I taught myself the ropes, so yeah, I'm that kind of developer who makes apps not just work, but look darn good too 🎯
